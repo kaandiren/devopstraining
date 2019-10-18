@@ -1,0 +1,12 @@
+server:
+   port: 8085
+
+spring:
+   application:
+     status: "DEV"
+     name: "devopstraining"
+     
+config:
+ status: "DEV"
+ ip: "127.0.0.1"
+ author: "Kaan Diren"
