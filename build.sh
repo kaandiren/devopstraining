@@ -1,2 +1,2 @@
-mvn install
+mvn clean install
 echo "BUILD COMPLETED"
