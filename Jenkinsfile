@@ -4,8 +4,6 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Building..'
-                mvn install
-                
                 bash build.sh
             }
         }
